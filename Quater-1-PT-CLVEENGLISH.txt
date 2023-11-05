@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Young+Serif&display=swap" rel="stylesheet">
+
+<center>
+
+<body style="background-image:url('https://media2.giphy.com/media/AHeTfHgVFPHgs/giphy.gif');" repeat=yes>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NzCnmK0esq0?si=iXsK7U8cqjPUcZjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+YouTube
+
+<h1><p style="color:white;">Ladies and gentlemen,</h1>
+
+<p style="color:white;">Allow me to commence our exploration of the tumultuous journey of the early Christians
+with the timeless words of William Shakespeare: "Though they be but little, they are
+fierce."When applied to the early Christians, these famous playwright's original lines
+have a powerful resonance. A tiny, seemingly unimportant religious group challenged
+the powerful Roman Empire in the fiery arena of antiquity. Today, we set out on a trip to
+learn more about their history, guided by three key questions: Why were the early
+Christians persecuted? What impact did early Christians' persecution have on the
+growth of Christianity? And finally, how can we deal with "persecution" in our own lives
+due to our views and convictions, whether it occurs at home or at school?</p>
+
+<img src="https://vhx.imgix.net/testymctester/assets/b8044f83-2a60-419b-b4e7-0ed77d20ae69-45d8f7f1.jpg?auto=format%2Ccompress&fit=crop&h=720&q=75&w=1280" border=3 width=800>
+
+<p style="color:white;">Early Christians were persecuted because of a complicated interaction of religious,
+political, and social forces. This conflict was started by a conflict of beliefs. The
+monotheistic Christian faith was seen as a direct threat to the Roman Empire's
+dominance because of its polytheistic traditions and emperor worship. Many saw the
+Christians as disruptive and disloyal because they refused to recognise the emperor's
+divinity or worship the Roman gods. The systematic persecution that would follow was
+made possible by this theological strife.</p>
+
+<img src="https://www.wondriumdaily.com/wp-content/uploads/2022/07/Christianity_QBS_Persecution-of-Christians_Featured.jpg" border=3 width=800>
+
+<p style="color:white;">Contrarily, the persecution of the early Christians was crucial to the growth of
+Christianity. When persecution was a real possibility, Christians came together in bonds
+of support and steadfast devotion to their beliefs. Inspiring people to maintain their
+convictions in the face of death, martyrs like Saint Stephen and Saint Polycarp acted as
+rallying points for the Christian community. This amazing tenacity not only helped
+Christianity survive, but also greatly aided its expansion and influence.</p>
+
+<img src="https://i0.wp.com/www.joeledmundanderson.com/wp-content/uploads/2016/10/martyrdom-of-polycarp.jpg" border=3 width=800>
+
+<p style="color:white;">Beyond the pages of history, we must think about how we deal with persecution in our
+own lives that results from our views and convictions, whether it happens in our homes,
+schools, or society. The example of the early Christians shows us that hardship may
+spur strength and cohesion. It is vital to stick to our values in the face of resistance, find
+support within our communities, and look for areas of agreement with those who might
+not share our convictions. We can harness the strength of our beliefs and turn
+misfortune into an opportunity for growth and constructive change, just as the early
+Christians did.</p>
+
+<img src="https://www.philipkosloski.com/wp-content/uploads/2016/01/jesus_praying.jpg" border=3 width=800>
+
+<p style="color:white;">In conclusion, the history of the early Christians is a timeless example of the strength,
+tenacity, and conviction that come from having faith. It serves as a reminder that even in
+the most trying situations, our principles can thrive and our solidarity can win out. Let us
+keep in mind the lessons of history as we travel through our own life journeys: that
+perseverance, unity, and the search for common ground may help us overcome
+obstacles and create a society where our views do not serve as a fuel for conflict but
+rather for understanding and progress. I'm grateful</p>
+
+<img src="https://m.media-amazon.com/images/I/61-1B1wz8NL._SX300_SY300_QL70_FMwebp_.jpg" border=3 width=600>
